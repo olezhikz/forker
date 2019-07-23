@@ -1,0 +1,14 @@
+{
+    "name":"livestreet/forker",
+    "license": "MIT",
+    "description": "Forker presents a simple interfacing for forking in PHP.",
+    "authors": [
+      {"name": "ryancco"}
+    ],
+   
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
